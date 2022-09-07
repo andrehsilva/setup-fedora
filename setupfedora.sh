@@ -3,6 +3,13 @@
 
 sudo dnf update && 
 
+## Adicionando Python, pip e jupyter
+
+sudo apt install python3 python-pip &&
+
+pip install jupyterlab &&
+
+
 ## Adicionando repositório Flathub ##
 
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo && 
