@@ -1,7 +1,7 @@
 # setup-fedora
 
 André Workstation
-Automatização de instalação do Ubuntu
+Automatização de instalação do Fedora (rpm)
 
 Certique-se do arquivo ter permissões de execução.
 
