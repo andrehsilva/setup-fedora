@@ -21,6 +21,7 @@ sudo flatpak install flathub com.github.alainm23.planner -y &&
 sudo flatpak install flathub org.gabmus.whatip -y &&
 sudo flatpak install flathub com.visualstudio.code -y &&
 sudo flatpak install flathub org.sqlitebrowser.sqlitebrowser -y &&
+sudo flatpak install flathub com.slack.Slack -y &&
  
 
 ## Softwares que precisam de download externo ##
